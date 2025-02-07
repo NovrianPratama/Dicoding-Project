@@ -1,23 +1,23 @@
-# Submission Projects Dicoding 🚀
+# Personal Data Science Projects 🚀
 
-Halo! Selamat datang di repository **Submission Projects Dicoding**! 🎉
+Hello! Welcome to my **Personal Data Science Projects** repository! 🎉
 
-Saya **Novrian Pratama** 👨‍💻, seorang yang sangat tertarik dengan dunia **Data Science**, **Data Analyst**, dan **AI Engineering** 🤖. Di repository ini, saya akan mengumpulkan semua **submission project** yang saya buat dari berbagai kursus Dicoding yang saya ikuti. Setiap folder akan berisi project yang telah saya selesaikan, lengkap dengan kode sumber dan penjelasan singkat tentang cara kerjanya.
+I am **Novrian Pratama** 👨‍💻, someone who is deeply interested in **Data Science**, **Data Analytics**, and **AI Engineering** 🤖. In this repository, I collect all the personal projects I have worked on in the field of **Data Science**. Each folder contains a project that I have completed, along with the **source code**, **description**, and a brief explanation of how each model works.
 
-## Kenapa Ada Repository Ini? 🤔
+### Why This Repository Exists? 🤔
+The main purpose of this repository is to:
 
-Tujuan utama repository ini adalah untuk:
-- **Menyimpan** semua project yang saya buat dari kursus Dicoding 🗂️.
-- **Menunjukkan** solusi dan penerapan teknologi yang saya pelajari dalam berbagai project 💡.
-- **Memberikan contoh kode** untuk siapa saja yang ingin belajar atau mencari inspirasi 👨‍💻.
-- Sebagai **portofolio** saya yang bisa diakses oleh siapa saja 🌍.
+- Store and document various **personal projects** I’ve created in the world of **Data Science** 🗂️.
+- Showcase data analysis solutions and the implementation of **Machine Learning** or **AI** technologies I have learned through personal experimentation 💡.
+- Provide **code examples** and explanations that can help anyone who wants to learn more or find inspiration 👨‍💻.
+- Serve as my **portfolio** that can be accessed by anyone interested in viewing my work 🌍.
 
-## Minat Saya 🔍
+### My Interests 🔍
+Here are some of my key interests:
 
-Saya sangat tertarik dengan:
-- **Data Science** 📊: Mengolah data untuk mendapatkan insight yang berguna.
-- **Data Analytics** 📈: Menganalisis data dan menemukan pola untuk mendukung keputusan bisnis.
-- **AI Engineering** 🤖: Membangun dan mengembangkan solusi berbasis kecerdasan buatan.
+- **Data Science** 📊: Processing and analyzing data to gain **valuable insights**. I am interested in modeling techniques and data visualization to uncover information from large and complex datasets.
+- **Data Analytics** 📈: Discovering patterns in data to support **business or technical decision-making**. Through statistical analysis and data exploration, I help understand trends that influence decisions.
+- **AI Engineering** 🤖: Building solutions based on **artificial intelligence** to solve real-world problems. I work with algorithms like **Machine Learning**, **Deep Learning**, and **Natural Language Processing** to develop smarter applications.
 
-
-Thank you for visiting ! 😊
+### Thank You for Visiting!
+Thank you for taking the time to visit this repository. I hope the projects I share here provide value or inspiration, whether for learning or reference. Feel free to provide feedback or reach out if you have any questions! 😊
