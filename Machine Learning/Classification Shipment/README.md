@@ -1,7 +1,7 @@
 # E-Commerce Customer Shipment Classification 📦🕒
 
 
-This project focuses on predicting whether products will reach their destination on time using multiple **Machine Learning Classification** algorithms. We evaluate models like **Decision Tree**, **Naive Bayes**, **K-Nearest Neighbours (KNN)**, **Random Forest**, and **Support Vector Machine (SVM)** using the **E-Commerce Shipping Data** from Kaggle.
+This project focuses on predicting whether products will reach their destination on time using multiple **Machine Learning Classification** algorithms. I'm evaluate models like **Decision Tree**, **Naive Bayes**, **K-Nearest Neighbours (KNN)**, **Random Forest**, and **Support Vector Machine (SVM)** using the **E-Commerce Shipping Data** from Kaggle.
 
 ### 🚀 **Dataset Overview**
 ------------------------------------------------
