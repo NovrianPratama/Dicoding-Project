@@ -1,5 +1,9 @@
 # Personal Data Science Projects 🚀
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/b68fbbb5be2e3c2d8af2c57a39bc36f5739026e31244011971ffbcb025d003f6/68747470733a2f2f6d656469612e74656e6f722e636f6d2f635839326d6931702d4e5941414141642f636f64696e672d616e696d652e676966" alt="Animated Data Science">
+</p>
+
 Hello! Welcome to my **Personal Data Science Projects** repository! 🎉
 
 I am **Novrian Pratama** 👨‍💻, someone who is deeply interested in **Data Science**, **Data Analytics**, and **AI Engineering** 🤖. In this repository, I collect all the personal projects I have worked on in the field of **Data Science**. Each folder contains a project that I have completed, along with the **source code**, **description**, and a brief explanation of how each model works.
